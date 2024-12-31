@@ -29,9 +29,9 @@ const experiences = [
     company_name: "Self Employed",
     date: "Jan 2015 - Jan 2016",
     details: [
-      "Provided web and mobile development services to various clients as an independent contractor.",
-      "Managed full project lifecycle from initial consultation to deployment and maintenance.",
-      "Collaborated with remote teams and stakeholders to ensure timely delivery and client satisfaction."
+      "Provided web and mobile development services to various clients as an <span style='color: white;'>independent contractor.</span>",
+      "<span style='color: white;'>Managed</span> full project lifecycle from initial consultation to deployment and maintenance.",
+      "Collaborated with remote teams and stakeholders to ensure timely delivery and <span style='color: white;'>client satisfaction.</span>"
     ],
   },
   {
@@ -39,9 +39,9 @@ const experiences = [
     company_name: "Voyagesbooth (Product-Based)",
     date: "Jan 2016 - Feb 2021",
     details: [
-      "Developed and optimized core features for the company’s flagship product, improving performance and user experience.",
-      "Worked closely with cross-functional teams to design and implement scalable systems and APIs.",
-      "Integrated third-party services and payment gateways, ensuring robust security and minimal downtime."
+      "Developed and optimized core features for the company’s flagship product, improving <span style='color: white;'>performance</span> and user experience.",
+      "Worked closely with <span style='color: white;'>cross-functional</span> teams to design and implement scalable systems and APIs.",
+      "Integrated <span style='color: white;'>third-party services</span> and payment gateways, ensuring robust security and minimal downtime."
     ],
   },
   {
@@ -49,9 +49,9 @@ const experiences = [
     company_name: "Service-Based Company",
     date: "Feb 2021 - Present",
     details: [
-      "Architected and implemented end-to-end solutions for a variety of clients across different industries.",
-      "Maintained high-quality code standards and best practices to deliver scalable and maintainable software.",
-      "Mentored junior developers, conducted code reviews, and led sprint planning meetings to ensure timely deliverables."
+      "Architected and implemented <span style='color: white;'>end-to-end solutions</span> for a variety of clients across different industries.",
+      "Maintained <span style='color: white;'>high-quality code</span> standards and best practices to deliver scalable and maintainable software.",
+      "Mentored junior developers, conducted code reviews, and led sprint planning meetings to ensure <span style='color: white;'>timely deliverables.</span>"
     ],
   },
 ];
