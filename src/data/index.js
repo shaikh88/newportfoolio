@@ -25,7 +25,7 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "Freelancer",
+    title: "Software Engineer - Freelancer",
     company_name: "Self Employed",
     date: "Jan 2015 - Jan 2016",
     details: [
@@ -36,7 +36,7 @@ const experiences = [
   },
   {
     title: "Software Engineer",
-    company_name: "Voyagesbooth (Product-Based)",
+    company_name: "Voyagesbooth",
     date: "Jan 2016 - Feb 2021",
     details: [
       "Developed and optimized core features for the company’s flagship product, improving <span style='color: white;'>performance</span> and user experience.",
@@ -45,8 +45,8 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer",
-    company_name: "Service-Based Company",
+    title: "Engineering Manger - Software",
+    company_name: "Devkraft Technologies",
     date: "Feb 2021 - Present",
     details: [
       "Architected and implemented <span style='color: white;'>end-to-end solutions</span> for a variety of clients across different industries.",
